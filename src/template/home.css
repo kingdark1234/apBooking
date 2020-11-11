@@ -1,0 +1,14 @@
+.Layout {
+  display: flex;
+  height:100vh;
+  justify-content: center;
+}
+
+.Header {
+  display: flex;
+}
+
+.Content {
+  display: flex;
+  /* align-items: center; */
+}
